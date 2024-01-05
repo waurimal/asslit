@@ -3,13 +3,19 @@ project:
   output-dir: docs
 
 book:
-  title: "Assessment Literacy for teachers"
-  author: "Kwak, Hyunseok"
+  title: "평가 리터러시"
+  author: "Popham, W. James(역자: 곽현석)"
   date: "2024. 1. 5."
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - chap01.qmd
+    - chap02.qmd
+    - chap03.qmd
+    - chap04.qmd
+    - chap05.qmd
+    - chap06.qmd
+    - chap07.qmd
+    - chap08.qmd
     - references.qmd
 
 bibliography: references.bib
